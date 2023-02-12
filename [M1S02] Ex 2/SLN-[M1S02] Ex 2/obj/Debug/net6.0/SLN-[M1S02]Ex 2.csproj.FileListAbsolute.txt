@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\bin\Debug\net6.0\SLN-[M1S02]Ex 2.exe
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\bin\Debug\net6.0\SLN-[M1S02]Ex 2.deps.json
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\bin\Debug\net6.0\SLN-[M1S02]Ex 2.runtimeconfig.json
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\bin\Debug\net6.0\SLN-[M1S02]Ex 2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\bin\Debug\net6.0\SLN-[M1S02]Ex 2.pdb
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\refint\SLN-[M1S02]Ex 2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.pdb
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\SLN-[M1S02]Ex 2.genruntimeconfig.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\[M1S02] Ex 2\SLN-[M1S02] Ex 2\obj\Debug\net6.0\ref\SLN-[M1S02]Ex 2.dll
