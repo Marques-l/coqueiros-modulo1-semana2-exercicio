@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\bin\Debug\net6.0\semana2ex2.exe
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\bin\Debug\net6.0\semana2ex2.deps.json
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\bin\Debug\net6.0\semana2ex2.runtimeconfig.json
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\bin\Debug\net6.0\semana2ex2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\bin\Debug\net6.0\semana2ex2.pdb
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\refint\semana2ex2.dll
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.pdb
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\semana2ex2.genruntimeconfig.cache
+C:\Users\Larissa\OneDrive\vscode\Teste-Visual-studio\Semana2\semana2ex2\semana2ex2\obj\Debug\net6.0\ref\semana2ex2.dll
